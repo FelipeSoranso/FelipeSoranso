@@ -9,6 +9,12 @@ Meu nome é Felipe Soranso
 
 -VAI CORINTHIANSS!!!!!!!!!
 
+### Entre em contato comigo 📫
+
+@cartmancorintiano
+
+![](https://media.tenor.com/GNdBjYBUJ-cAAAAC/torcida-crowd.gif)
+
 <!--
 **FelipeSoranso/FelipeSoranso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
