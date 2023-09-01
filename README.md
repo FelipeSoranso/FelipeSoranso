@@ -1,7 +1,7 @@
 ### Bem vindo ao meu perfil 👋
 Meu nome é Felipe Soranso
 
--Estou estudando na Alura ⚡
+-Estou estudando na [Alura](https://www.alura.com.br) ⚡
 
 -Estou me desenvolvendo na linguagem JavaScript 🌱
 
