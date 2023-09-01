@@ -7,6 +7,8 @@ Meu nome é Felipe Soranso
 
 -Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 🔭
 
+-VAI CORINTHIANSS!!!!!!!!!
+
 <!--
 **FelipeSoranso/FelipeSoranso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
