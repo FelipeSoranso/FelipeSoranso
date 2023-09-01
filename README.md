@@ -1,9 +1,9 @@
 ### Bem vindo ao meu perfil 👋
 Meu nome é Felipe Soranso
 
--Estou estudando na [Alura](https://www.alura.com.br) ⚡
+-Estou estudando na Alura: [![Alura](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aluraonline/)  ⚡
 
--Estou me desenvolvendo na linguagem JavaScript 🌱
+-Estou me desenvolvendo na linguagem JavaScript ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  🌱
 
 -Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 🔭
 
